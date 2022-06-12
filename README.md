@@ -1,4 +1,4 @@
-# 5주차 실습
+# React JS WeatherDemoApp
 
 ## OpenWeatherMap 날씨 API를 활용한 API 연동 실습
 
